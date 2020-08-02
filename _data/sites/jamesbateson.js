@@ -1,6 +1,6 @@
 module.exports = {
 	name: "jamesbateson.co.uk", // optional, falls back to object key
-	description: "Personal website of James Bateson a front-end developer",
+	description: "Personal website",
 	skip: false,
 	options: {
 		frequency: 60 * 23, // 23 hours
